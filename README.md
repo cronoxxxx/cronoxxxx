@@ -46,10 +46,8 @@ And I'm always learning something new!
 
 ---
 
-# Let's Connect!:
-
 <div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/walther-saavedra/" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/walther-saavedra/" style="margin-right: 50px;">
     <img src="https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn" alt="LinkedIn">
   </a>
   <a href="https://t.me/cr0noxx">
