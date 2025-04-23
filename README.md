@@ -46,11 +46,13 @@ And I'm always learning something new!
 
 ---
 
+# Let's Connect!:
+
 <div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/walther-saavedra/" style="margin-right: 50px;">
+  <a href="https://www.linkedin.com/in/walther-saavedra/" style="margin-right: 20px;">
     <img src="https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn" alt="LinkedIn">
   </a>
-  <a href="https://t.me/cr0noxx">
+  <a href="https://t.me/your_telegram_username">
     <img src="https://imgs.search.brave.com/X9YQ3yByGGASxHG7OYRfQjTKow1SfknPUDuXIg21nSw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90ZWxlZ3Jh/bS1pY29uLTIwNDh4/MjA0OC1uczNtYmdo/NC5wbmc" alt="Telegram" width="90">
   </a>
 </div>
