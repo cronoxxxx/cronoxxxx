@@ -49,5 +49,3 @@ And I'm always learning something new!
 # Let's Connect!:
 
 [![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/walther-saavedra/)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/cr0noxx)
-
