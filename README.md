@@ -1,43 +1,37 @@
-<!-- Encabezado animado y mejorado -->
 <div align="center">
   <a href="https://pimp-my-readme-next.vercel.app">
     <img src="https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f680&text=🌟%20Welcome%20to%20Walther%20Saavedra%27s%20World!%20🌍" alt="Welcome Banner" style="width: 100%; max-width: 1000px;" />
   </a>
 </div>
 
-
-
 <div align="center">
   <h1 style="font-size: 3em;">✨ Walther Saavedra ✨</h1>
   <h2><strong><span style="color:#00ADB5;">🚀 Full-Stack Developer 🚀</span></strong></h2>
   <p>Tech enthusiast | Creative mind | Multilingual communicator (🇪🇸 🇺🇸 🇵🇹)</p>
 
-  <!-- Botón para descargar CV -->
- <a href="curriculum.pdf" download>
-  <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-</a>
-
+  <a href="curriculum.pdf" download>
+    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+</div>
 
 ---
 
-## 🌐 About Me:
+## 🌐 About Me
 
-Hi! I'm Walther — a passionate full-stack developer who thrives on building efficient, creative, and impactful web experiences. Fluent in Spanish, English, and Portuguese, I bring cultural sensitivity and diversity to every project I touch.
+Hi! I'm Walther—a passionate full-stack developer who thrives on building efficient, creative, and impactful web experiences. Fluent in Spanish, English, and Portuguese, I bring cultural sensitivity and diversity to every project I touch.
 
 🖌️ I love blending code with design.  
 🛼 I glide on inline skates to clear my mind.  
 👨‍🍳 I experiment in the kitchen like it’s a lab.
 
-I aim to connect logic with emotion — building apps that don’t just *work*, but that *feel right*.
+I aim to connect logic with emotion—building apps that don’t just *work*, but that *feel right*.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- Mostrar las tecnologías ordenadas por categoría -->
-
 ### 🔹 Frontend & UI
-  
+
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,10 +40,8 @@ I aim to connect logic with emotion — building apps that don’t just *work*, 
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
 ### 🔹 Backend & Databases
-  
+
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -60,9 +52,8 @@ I aim to connect logic with emotion — building apps that don’t just *work*, 
 ![Thymeleaf Badge](https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Jakarta EE Badge](https://img.shields.io/badge/Jakarta%20EE-000000?style=for-the-badge&logo=jakartaee&logoColor=white)
 
-
 ### 🔹 Tools & Platforms
-  
+
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unity Badge](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white)
@@ -70,25 +61,17 @@ I aim to connect logic with emotion — building apps that don’t just *work*, 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- Total Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  
-  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak">
-
-  <!-- Lenguajes Más Usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages">
-
-  <!-- Trophy Stats -->
   <img src="https://github-profile-trophy.vercel.app/?username=cronoxxxx&theme=darkhub&margin-w=10&margin-h=15" alt="Trophies">
 </div>
+
 
 ---
 
