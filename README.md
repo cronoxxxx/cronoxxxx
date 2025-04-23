@@ -1,9 +1,10 @@
 <!-- Encabezado animado y mejorado -->
 <div align="center">
   <a href="https://pimp-my-readme-next.vercel.app">
-    <img src="https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f680&text=🌟%20Welcome%20to%20Walther%20Saavedra%27s%20World!%20🌍" alt="Welcome Banner" />
+    <img src="https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f680&text=🌟%20Welcome%20to%20Walther%20Saavedra%27s%20World!%20🌍" alt="Welcome Banner" style="width: 100%; max-width: 1000px;" />
   </a>
 </div>
+
 
 
 <div align="center">
