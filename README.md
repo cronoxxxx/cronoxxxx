@@ -116,19 +116,15 @@
 
 # 📈 GitHub Stats
 
-<div >
-
+<div>
   <!-- Total Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="300" height="150" >
+
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak"  />
+  <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" width="200" height="75" >
 
   <!-- Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages" />
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages" width="150" height="150" >
 </div>
 
 
