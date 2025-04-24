@@ -5,128 +5,54 @@
   </a>
 </div>
 
-
-
 <div align="center">
-  <h1 style="
-  font-size: 2.8em;
-  font-weight: 700;
-  text-align: center;
-  letter-spacing: 1px;
-  padding: 0.3em 0;
-  width: fit-content;
-  margin: 0 auto 1em auto;
-">
-  ⫷ Walther Saavedra ⫸
-</h1>
-
-
-  <h2><strong><span style="color:#00ADB5;">🚀 Full-Stack Developer 🚀</span></strong></h2>
-  <p>Tech enthusiast | Creative mind | Multilingual communicator (🇪🇸 🇺🇸 🇵🇹)</p> 
+  <h1 style="font-size: 2.8em; font-weight: 700; text-align: center; letter-spacing: 1px; padding: 0.3em 0; width: fit-content; margin: 0 auto 1em auto;">
+    ⫷ Walther Saavedra ⫸
+  </h1>
+  <h2 style="font-size: 1.5em;">
+    <strong><span style="color:#00ADB5;">🚀 Full-Stack Developer 🚀</span></strong>
+  </h2>
+  <p style="font-size: 1.1em;">Tech enthusiast | Creative mind | Multilingual communicator</p>
 
   <!-- Botón para descargar CV -->
- <a href="curriculum.pdf" download>
-  <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-</a>
+  <a href="curriculum.pdf" download>
+    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+</div>
+
+
 
 
 ---
 
 # 🌐 About Me
 
-<style>
-  .about-container {
-    max-width: 700px;
-    margin: 0 auto;
-    font-family: 'Segoe UI', 'Arial', sans-serif;
-    border-radius: 18px;
-    padding: 2.5rem 2rem 2rem 2rem;
-  }
-  .about-desc {
-    font-size: 1.18rem;
-    text-align: center;
-    line-height: 1.6;
-  }
-  .languages-section {
-    
-    max-width: 700px;
-    margin: 0 auto 20px auto;
-    text-align: center;
-    
-    font-family: 'Segoe UI', 'Arial', sans-serif;
-  }
-  .languages-title {
-    font-size: 0.75rem;
-    font-weight: 600;
-    
-    letter-spacing: 0.5px;
-    margin-bottom: 1.1rem;
-    
-  }
-  .flags-row {
-    border-top: 2px;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 2.5rem;
-  
-  }
-  .flag-col {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    border-radius: 10px;
-    padding: 0.5rem 1rem 0.7rem 1rem;
-    background: none;
-    margin: 0;
-  }
-  .flag-img {
-    width: 52px;
-    height: 36px;
-    border-radius: 7px;
-    margin-bottom: 0.7rem;
-    display: block;
-  }
-  .lang-label {
-    font-size: 1.08rem;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    
-
-  }
-  .lang-desc {
-    font-size: 0.96rem;
-
-    max-width: 120px;
-    opacity: 0.92;
-  }
-</style>
-
-<div class="about-container">
-  <div class="about-desc">
+<div style="max-width: 700px; margin: 0 auto; font-family: 'Segoe UI', 'Arial', sans-serif; border-radius: 18px; padding: 2.5rem 2rem 2rem 2rem;">
+  <p style="font-size: 1.18rem; text-align: center; line-height: 1.6;">
     Hi, I'm <b>Walther</b> — a passionate full-stack developer dedicated to crafting efficient, creative, and impactful web experiences.<br>
     I thrive at the intersection of logic and emotion, building applications that not only <em>work</em> but <em>feel right</em>.
-  </div>
+  </p>
 </div>
 
-<div class="languages-section">
-  <div class="languages-title"><h1>Languages I Speak</h1></div>
-  <div class="flags-row">
-    <div class="flag-col">
-      <img class="flag-img" src="https://flagcdn.com/w160/es.png" alt="Spanish Flag" />
-      <div class="lang-label">Spanish</div>
-      <div class="lang-desc">Native fluency</div>
+<div style="max-width: 700px; margin: 0 auto 20px auto; text-align: center; font-family: 'Segoe UI', 'Arial', sans-serif;">
+  <div style="font-size: 0.85rem; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 1.1rem;">
+    <h1>Languages I Speak</h1>
+  </div>
+  <div style="border-top: 2px; display: flex; justify-content: center; align-items: flex-start; gap: 2.5rem;">
+    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; border-radius: 10px; padding: 0.5rem 1rem 0.7rem 1rem; background: none; margin: 0;">
+      <img src="https://flagcdn.com/w160/es.png" alt="Spanish Flag" style="width: 52px; height: 36px; border-radius: 7px; margin-bottom: 0.7rem; display: block;" />
+      <div style="font-size: 1.08rem; font-weight: 600; letter-spacing: 0.5px;">Spanish</div>
+      <div style="font-size: 0.96rem; max-width: 120px; opacity: 0.92;">Native fluency</div>
     </div>
-    <div class="flag-col">
-      <img class="flag-img" src="https://flagcdn.com/w160/us.png" alt="English Flag" />
-      <div class="lang-label">English</div>
-      <div class="lang-desc">Professional proficiency</div>
+    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; border-radius: 10px; padding: 0.5rem 1rem 0.7rem 1rem; background: none; margin: 0;">
+      <img src="https://flagcdn.com/w160/us.png" alt="English Flag" style="width: 52px; height: 36px; border-radius: 7px; margin-bottom: 0.7rem; display: block;" />
+      <div style="font-size: 1.08rem; font-weight: 600; letter-spacing: 0.5px;">English</div>
+      <div style="font-size: 0.96rem; max-width: 120px; opacity: 0.92;">Professional proficiency</div>
     </div>
-    <div class="flag-col">
-      <img class="flag-img" src="https://flagcdn.com/w160/br.png" alt="Brazilian Flag" />
-      <div class="lang-label">Portuguese</div>
-      <div class="lang-desc">Conversational</div>
+    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; border-radius: 10px; padding: 0.5rem 1rem 0.7rem 1rem; background: none; margin: 0;">
+      <img src="https://flagcdn.com/w160/br.png" alt="Brazilian Flag" style="width: 52px; height: 36px; border-radius: 7px; margin-bottom: 0.7rem; display: block;" />
+      <div style="font-size: 1.08rem; font-weight: 600; letter-spacing: 0.5px;">Portuguese</div>
+      <div style="font-size: 0.96rem; max-width: 120px; opacity: 0.92;">Conversational</div>
     </div>
   </div>
 </div>
