@@ -124,7 +124,7 @@ Walther Saavedra ☄️
   <br><br>
   <!-- Streak Stats -->
   <a href="https://github.com/cronoxxxx">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cronoxxxx&theme=github-compact&hide_border=false" alt="Activity Graph">
+  <img src="https://github.com/cronoxxxx/cronoxxxx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </a>
 <br><br>
   <!-- Languages -->
