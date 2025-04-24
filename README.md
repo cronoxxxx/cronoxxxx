@@ -127,9 +127,6 @@
   <!-- Lenguajes Más Usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages" />
 
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=cronoxxxx&theme=darkhub&margin-w=10&margin-h=15" alt="Trophies"  />
-
 </div>
 
 ---
