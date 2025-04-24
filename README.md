@@ -8,15 +8,7 @@
 
 
 <div align="center">
-  <h1 style="
-  font-size: 2.8em;
-  font-weight: 700;
-  text-align: center;
-  letter-spacing: 1px;
-  padding: 0.3em 0;
-  width: fit-content;
-  margin: 0 auto 1em auto;
-">
+  <h1>
   ⫷ Walther Saavedra ⫸
 </h1>
 
