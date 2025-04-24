@@ -116,16 +116,18 @@
 
 # 📈 GitHub Stats
 
-<div align="center">
+<div >
 
   <!-- Total Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak"  />
- 
+
   <!-- Lenguajes Más Usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages" />
+
+
 
 </div>
 
