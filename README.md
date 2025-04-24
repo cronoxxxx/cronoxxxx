@@ -119,7 +119,7 @@ Walther Saavedra ☄️
 <div align="center">
 <!-- Streak Stats -->
   <a href="https://github.com/cronoxxxx">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cronoxxxx&theme=github_dark" alt="Streak Stats" width="1300" height="1700"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cronoxxxx&theme=github_dark" alt="Streak Stats"/>
 </a>
 <br><br>
   <!-- Total Stats -->
