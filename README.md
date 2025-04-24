@@ -41,28 +41,31 @@
   </p>
 </div>
 
-<div style="max-width: 700px; margin: 0 auto 20px auto; text-align: center; font-family: 'Segoe UI', 'Arial', sans-serif;">
-  <div style="font-size: 0.75rem; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 1.1rem;">
-    <h1>Languages I Speak</h1>
+<div align="center" style="max-width: 700px; margin: 0 auto 20px auto; font-family: 'Segoe UI', 'Arial', sans-serif;">
+  <div style="font-size: 0.9rem; font-weight: 700; letter-spacing: 1px; margin-bottom: 1.2rem;">
+   <h1> Languages I Speak </h1>
   </div>
-  <div style="border-top: 2px; display: flex; justify-content: center; align-items: flex-start; gap: 2.5rem;">
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; border-radius: 10px; padding: 0.5rem 1rem 0.7rem 1rem; background: none; margin: 0;">
-      <img src="https://flagcdn.com/w160/es.png" alt="Spanish Flag" style="width: 52px; height: 36px; border-radius: 7px; margin-bottom: 0.7rem; display: block;" />
-      <div style="font-size: 1.08rem; font-weight: 600; letter-spacing: 0.5px;">Spanish</div>
-      <div style="font-size: 0.96rem; max-width: 120px; opacity: 0.92;">Native fluency</div>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; border-radius: 10px; padding: 0.5rem 1rem 0.7rem 1rem; background: none; margin: 0;">
-      <img src="https://flagcdn.com/w160/us.png" alt="English Flag" style="width: 52px; height: 36px; border-radius: 7px; margin-bottom: 0.7rem; display: block;" />
-      <div style="font-size: 1.08rem; font-weight: 600; letter-spacing: 0.5px;">English</div>
-      <div style="font-size: 0.96rem; max-width: 120px; opacity: 0.92;">Professional proficiency</div>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; border-radius: 10px; padding: 0.5rem 1rem 0.7rem 1rem; background: none; margin: 0;">
-      <img src="https://flagcdn.com/w160/br.png" alt="Brazilian Flag" style="width: 52px; height: 36px; border-radius: 7px; margin-bottom: 0.7rem; display: block;" />
-      <div style="font-size: 1.08rem; font-weight: 600; letter-spacing: 0.5px;">Portuguese</div>
-      <div style="font-size: 0.96rem; max-width: 120px; opacity: 0.92;">Conversational</div>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" style="padding: 0 26px;">
+        <img src="https://flagcdn.com/w160/es.png" width="80" alt="Spanish" style="border:3px transparent; border-radius:12px; " /><br />
+        <span style="font-size: 1.15rem; font-weight: bold; color: #22223b;">Spanish</span><br />
+        <span style="font-size: 1.05rem; color: #475569;">Native fluency</span>
+      </td>
+      <td align="center" style="padding: 0 26px;">
+        <img src="https://flagcdn.com/w160/us.png" width="80" alt="English" style="border:3px transparent ; border-radius:12px; " /><br />
+        <span style="font-size: 1.15rem; font-weight: bold; color: #22223b;">English</span><br />
+        <span style="font-size: 1.05rem; color: #475569;">Professional proficiency</span>
+      </td>
+      <td align="center" style="padding: 0 26px;">
+        <img src="https://flagcdn.com/w160/br.png" width="80" alt="Portuguese" style="border:3px solid transparent; border-radius:12px; box-shadow:0 0 8px #00bfff33;" /><br />
+        <span style="font-size: 1.15rem; font-weight: bold; color: #22223b;">Portuguese</span><br />
+        <span style="font-size: 1.05rem; color: #475569;">Conversational</span>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
@@ -113,16 +116,16 @@
 <div align="center">
 
   <!-- Total Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" style="width: 100%; max-width: 400px;" />
+  <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak"  />
 
   <!-- Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages" style="width: 100%; max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages" />
 
   <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=cronoxxxx&theme=darkhub&margin-w=10&margin-h=15" alt="Trophies" style="width: 100%; max-width: 1400px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cronoxxxx&theme=darkhub&margin-w=10&margin-h=15" alt="Trophies"  />
 
 </div>
 
