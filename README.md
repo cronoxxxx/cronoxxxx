@@ -14,7 +14,7 @@ Walther Saavedra ☄️
   <p>Tech enthusiast | Creative mind | Multilingual communicator</p> 
 
   <!-- Botón para descargar CV -->
-<a href="curriculum.pdf" target="_blank">
+<a download="curriculum.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download My CV">
 </a>
 
