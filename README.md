@@ -45,25 +45,27 @@
   <div>
     <h2>Languages I Speak</h2>
   </div>
-  <table cellspacing="10" cellpadding="10">
-    <tr>
-      <td align="center">
-        <img src="https://flagcdn.com/w160/es.png" width="80" alt="Spanish" style="border: 2px; border-radius: 10px; " ><br>
-        <b>Spanish</b><br>
-        <small>Native fluency</small>
-      </td>
-      <td align="center">
-        <img src="https://flagcdn.com/w160/us.png" width="90" height="55" alt="English" style="border: 2px; border-radius: 10px; " ><br>
-        <b>English</b><br>
-        <small>Professional proficiency</small>
-      </td>
-      <td align="center">
-        <img src="https://flagcdn.com/w160/br.png" width="80" alt="Portuguese" style="border: 2px; border-radius: 10px; "><br>
-        <b>Portuguese</b><br>
-        <small>Conversational</small>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center; margin: 10px;">
+      <img src="https://flagcdn.com/w160/es.png" width="80" alt="Spanish" style="border: 0px; border-radius: 10px;"><br>
+      <b>Spanish</b><br>
+      <small>Native fluency</small>
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="https://flagcdn.com/w160/us.png" width="90" height="55" alt="English" style="border: 0px; border-radius: 10px;"><br>
+      <b>English</b><br>
+      <small>Professional proficiency</small>
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="https://flagcdn.com/w160/br.png" width="80" alt="Portuguese" style="border: 0px; border-radius: 10px;"><br>
+      <b>Portuguese</b><br>
+      <small>Conversational</small>
+    </div>
+
+  </div>
+</div>
+
 </div>
 
 
