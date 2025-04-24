@@ -34,38 +34,37 @@
 
 # 🌐 About Me
 
-<div style="max-width: 700px; margin: 0 auto; font-family: 'Segoe UI', 'Arial', sans-serif; border-radius: 18px; padding: 2.5rem 2rem 2rem 2rem;">
-  <p style="font-size: 1.18rem; text-align: center; line-height: 1.6;">
+<div>
+  <p >
     Hi, I'm <b>Walther</b> — a passionate full-stack developer dedicated to crafting efficient, creative, and impactful web experiences.<br>
     I thrive at the intersection of logic and emotion, building applications that not only <em>work</em> but <em>feel right</em>.
   </p>
 </div>
 
-<div align="center" style="max-width: 700px; margin: 0 auto 20px auto; font-family: 'Segoe UI', 'Arial', sans-serif;">
-  <div style="font-size: 0.9rem; font-weight: 700; letter-spacing: 1px; margin-bottom: 1.2rem;">
-   <h1> Languages I Speak </h1>
+<div align="center">
+  <div>
+    <h2>Languages I Speak</h2>
   </div>
-  <table>
+  <table border="0" cellspacing="10" cellpadding="10">
     <tr>
-      <td align="center" style="padding: 0 26px;">
-        <img src="https://flagcdn.com/w160/es.png" width="80" alt="Spanish" style="border:3px transparent; border-radius:12px; " /><br />
-        <span style="font-size: 1.15rem; font-weight: bold; color: #22223b;">Spanish</span><br />
-        <span style="font-size: 1.05rem; color: #475569;">Native fluency</span>
+      <td align="center">
+        <img src="https://flagcdn.com/w160/es.png" width="80" alt="Spanish" style="border: 2px; border-radius: 10px; " ><br>
+        <b>Spanish</b><br>
+        <small>Native fluency</small>
       </td>
-      <td align="center" style="padding: 0 26px;">
-        <img src="https://flagcdn.com/w160/us.png" width="80" alt="English" style="border:3px transparent ; border-radius:12px; " /><br />
-        <span style="font-size: 1.15rem; font-weight: bold; color: #22223b;">English</span><br />
-        <span style="font-size: 1.05rem; color: #475569;">Professional proficiency</span>
+      <td align="center">
+        <img src="https://flagcdn.com/w160/us.png" width="90" height="55" alt="English" style="border: 2px; border-radius: 10px; " ><br>
+        <b>English</b><br>
+        <small>Professional proficiency</small>
       </td>
-      <td align="center" style="padding: 0 26px;">
-        <img src="https://flagcdn.com/w160/br.png" width="80" alt="Portuguese" style="border:3px solid transparent; border-radius:12px; box-shadow:0 0 8px #00bfff33;" /><br />
-        <span style="font-size: 1.15rem; font-weight: bold; color: #22223b;">Portuguese</span><br />
-        <span style="font-size: 1.05rem; color: #475569;">Conversational</span>
+      <td align="center">
+        <img src="https://flagcdn.com/w160/br.png" width="80" alt="Portuguese" style="border: 2px; border-radius: 10px; "><br>
+        <b>Portuguese</b><br>
+        <small>Conversational</small>
       </td>
     </tr>
   </table>
 </div>
-
 
 
 
@@ -136,7 +135,7 @@
 <div align="center">
 
   <!-- GitHub Profile Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cronoxxxx&theme=react-dark&hide_border=true" alt="Activity Graph" style="width: 100%; max-width: 1800px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cronoxxxx&theme=react-dark&hide_border=true" alt="Activity Graph" />
 
 </div>
 
