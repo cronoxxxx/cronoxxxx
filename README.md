@@ -117,19 +117,11 @@ Walther Saavedra ☄️
 # 📈 GitHub Stats
 
 <div align="center">
-  <!-- Streak Stats -->
-  <a href="https://github.com/cronoxxxx">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cronoxxxx&theme=solarized" alt="Streak Stats"/>
-  </a>
-  
-
-  <!-- Total Stats -->
-  <a href="https://github.com/cronoxxxx">
-    <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=gruvbox_light&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  </a>
- <a href="https://github.com/cronoxxxx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=gruvbox_light&layout=compact&langs_count=10&hide_border=false" alt="Top Languages">
-  </a>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cronoxxxx&theme=nord_bright)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cronoxxxx&theme=nord_bright)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cronoxxxx&theme=nord_bright)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cronoxxxx&theme=nord_bright&)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cronoxxxx&theme=nord_bright&utcOffset=8)
 </div>
 
 
