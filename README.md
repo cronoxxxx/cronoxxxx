@@ -48,7 +48,7 @@ Walther Saavedra ☄️
         <b>Spanish</b><br>
       </td>
       <td align="center">
-        <img src="https://flagcdn.com/w160/us.png" alt="English" width="90" height="55"><br>
+        <img src="https://flagcdn.com/w160/gb.png" alt="English" width="90" height="55"><br>
         <b>English</b><br>
       </td>
       <td align="center">
@@ -58,13 +58,13 @@ Walther Saavedra ☄️
     </tr>
     <tr>
     <td align="center">
-    <small>Native fluency	</small>
+    <small>Native language	</small>
     </td>
     <td align="center">
-        <small>Professional proficiency</small>
+        <small>Cambridge B2</small>
     </td>
     <td align="center">
-     <small>Conversational</small>
+     <small>Fluent Speaking</small>
     </td>
     </tr>
   </table>
