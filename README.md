@@ -18,8 +18,9 @@
 
   <!-- Botón para descargar CV -->
 <a href="curriculum.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My CV">
+  <img src="https://img.shields.io/badge/📄%20View%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View My CV">
 </a>
+
 
 
 
