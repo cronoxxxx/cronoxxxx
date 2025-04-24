@@ -124,7 +124,7 @@ Walther Saavedra ☄️
   <br><br>
   <!-- Streak Stats -->
   <a href="https://github.com/cronoxxxx">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="Streak Stats" />
 </a>
 <br><br>
   <!-- Languages -->
