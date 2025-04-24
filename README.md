@@ -129,16 +129,7 @@
 
 </div>
 
----
 
-# 📅 GitHub Activity
-
-<div align="center">
-
-  <!-- GitHub Profile Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cronoxxxx&theme=react-dark&hide_border=true" alt="Activity Graph" />
-
-</div>
 
 
 ---
