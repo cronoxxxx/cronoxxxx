@@ -8,11 +8,8 @@
 
 
 <div align="center">
-  <h1>
-  ⫷ Walther Saavedra ⫸
-</h1>
 
-
+# ⫷ Walther Saavedra ⫸
   <h2><strong><span style="color:#00ADB5;">🚀 Full-Stack Developer 🚀</span></strong></h2>
   <p>Tech enthusiast | Creative mind | Multilingual communicator</p> 
 
