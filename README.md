@@ -45,7 +45,7 @@
   <div>
     <h2>Languages I Speak</h2>
   </div>
-  <table border="0" cellspacing="10" cellpadding="10">
+  <table cellspacing="10" cellpadding="10">
     <tr>
       <td align="center">
         <img src="https://flagcdn.com/w160/es.png" width="80" alt="Spanish" style="border: 2px; border-radius: 10px; " ><br>
