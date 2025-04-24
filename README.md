@@ -14,8 +14,19 @@ Walther Saavedra ☄️
   <p>Tech enthusiast | Creative mind | Multilingual communicator</p> 
 
   <!-- Botón para descargar CV -->
-<a href="curriculum.pdf" download="curriculum.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download My CV">
+<!-- Botón para descargar CV -->
+<!-- Botones para descargar CV en dos idiomas -->
+<a href="curriculum.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20CV%20Español-E60026?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Español">
+</a>
+
+<a href="curriculum.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20CV%20English%20(Soon)-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English">
+</a>
+
+<h3>🔗 Explore more</h3>
+<a href="https://tusitio.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20My%20Portfolio%20(Soon)-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Portfolio">
 </a>
 
 
