@@ -117,11 +117,11 @@ Walther Saavedra ☄️
 # 📈 GitHub Stats
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cronoxxxx&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cronoxxxx&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cronoxxxx&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cronoxxxx&theme=nord_bright&)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cronoxxxx&theme=nord_bright&utcOffset=2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cronoxxxx&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cronoxxxx&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cronoxxxx&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cronoxxxx&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cronoxxxx&theme=zenburn&utcOffset=2)
 
 
 
