@@ -119,17 +119,17 @@
 <div align="center">
   <!-- Total Stats -->
   <a href="https://github.com/cronoxxxx">
-    <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" style="max-width: 300px">
+    <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" >
   </a>
   
   <!-- Streak Stats -->
   <a href="https://github.com/cronoxxxx">
-    <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" width="100%" style="max-width: 300px">
+    <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" >
   </a>
 
   <!-- Languages -->
   <a href="https://github.com/cronoxxxx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages" width="100%" style="max-width: 300px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages" >
   </a>
 </div>
 
