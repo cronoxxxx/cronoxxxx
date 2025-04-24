@@ -22,7 +22,7 @@
 
 
   <h2><strong><span style="color:#00ADB5;">🚀 Full-Stack Developer 🚀</span></strong></h2>
-  <p>Tech enthusiast | Creative mind | Multilingual communicator (🇪🇸 🇺🇸 🇵🇹)</p> 
+  <p>Tech enthusiast | Creative mind | Multilingual communicator</p> 
 
   <!-- Botón para descargar CV -->
  <a href="curriculum.pdf" download>
