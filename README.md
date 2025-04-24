@@ -45,14 +45,25 @@
   <div>
     <h2>Languages I Speak</h2>
   </div>
-<div align="center">
-
- <img src="https://flagcdn.com/w160/es.png" width="80" alt="Spanish"><br>**Spanish**<br><small>Native fluency</small> | <img src="https://flagcdn.com/w160/us.png" width="90" height="55" alt="English"><br>**English**<br><small>Professional proficiency</small> | <img src="https://flagcdn.com/w160/br.png" width="80" alt="Portuguese"><br>**Portuguese**<br><small>Conversational</small> |
-|:---:|:---:|:---:|
-
-</div>
-</div>
-
+  <table cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://flagcdn.com/w160/es.png" width="80" alt="Spanish"  ><br>
+        <b>Spanish</b><br>
+        <small>Native fluency</small>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/w160/us.png" width="90" height="55" alt="English" ><br>
+        <b>English</b><br>
+        <small>Professional proficiency</small>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/w160/br.png" width="80" alt="Portuguese"><br>
+        <b>Portuguese</b><br>
+        <small>Conversational</small>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
