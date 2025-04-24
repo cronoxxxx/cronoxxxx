@@ -119,12 +119,12 @@
       <div class="lang-desc">Native fluency</div>
     </div>
     <div class="flag-col">
-      <img class="flag-img" src="https://flagcdn.com/w160/gb.png" alt="English Flag" />
+      <img class="flag-img" src="https://flagcdn.com/w160/us.png" alt="English Flag" />
       <div class="lang-label">English</div>
       <div class="lang-desc">Professional proficiency</div>
     </div>
     <div class="flag-col">
-      <img class="flag-img" src="https://flagcdn.com/w160/pt.png" alt="Portuguese Flag" />
+      <img class="flag-img" src="https://flagcdn.com/w160/br.png" alt="Brazilian Flag" />
       <div class="lang-label">Portuguese</div>
       <div class="lang-desc">Conversational</div>
     </div>
