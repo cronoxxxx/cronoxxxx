@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1>
-⫷ Walther Saavedra ⫸
+Walther Saavedra ☄️
 </h1>
 
 
