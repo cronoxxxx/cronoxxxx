@@ -28,9 +28,9 @@ Walther Saavedra ☄️
 # 🌐 About Me
 
 <div>
-  <p >
-    Hi, I'm <b>Walther</b> — a passionate full-stack developer dedicated to crafting efficient, creative, and impactful web experiences.<br>
-    I thrive at the intersection of logic and emotion, building applications that not only <em>work</em> but <em>feel right</em>.
+  <p>
+    Hi, I'm <b>Walther</b> — a full-stack developer passionate about building efficient, creative, and meaningful digital solutions,from clean web interfaces to powerful backend systems, including APIs, Android clients, and scalable server-side logic.<br>
+    I focus on making apps that not only <em>work</em> but also <em>feel right</em>.
   </p>
 </div>
 
