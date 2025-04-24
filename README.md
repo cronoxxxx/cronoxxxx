@@ -44,15 +44,15 @@ Walther Saavedra ☄️
   <table border=1 cellspacing="10" cellpadding="10">
     <tr>
       <td align="center">
-        <img src="https://flagcdn.com/w160/es.png" alt="Spanish"  ><br>
+        <img src="https://flagcdn.com/w160/es.png" alt="Spanish" width="80" ><br>
         <b>Spanish</b><br>
       </td>
       <td align="center">
-        <img src="https://flagcdn.com/w160/us.png" alt="English" ><br>
+        <img src="https://flagcdn.com/w160/us.png" alt="English" width="90" height="55"><br>
         <b>English</b><br>
       </td>
       <td align="center">
-        <img src="https://flagcdn.com/w160/br.png" alt="Portuguese"><br>
+        <img src="https://flagcdn.com/w160/br.png" alt="Portuguese" width="80"><br>
         <b>Portuguese</b><br>
       </td>
     </tr>
