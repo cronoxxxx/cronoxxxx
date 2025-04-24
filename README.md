@@ -13,8 +13,7 @@ Walther Saavedra ☄️
   <h2><strong><span style="color:#00ADB5;">🚀 Full-Stack Developer 🚀</span></strong></h2>
   <p>Tech enthusiast | Creative mind | Multilingual communicator</p> 
 
-  <!-- Botón para descargar CV -->
-<!-- Botón para descargar CV -->
+
 <!-- Botones para descargar CV en dos idiomas -->
 <a href="curriculum.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20CV%20Español-E60026?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Español">
@@ -25,7 +24,7 @@ Walther Saavedra ☄️
 </a>
 
 <h3>🔗 Explore more</h3>
-<a href="https://tusitio.com" target="_blank">
+<a href="https://github.com/cronoxxxx" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20My%20Portfolio%20(Soon)-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Portfolio">
 </a>
 
