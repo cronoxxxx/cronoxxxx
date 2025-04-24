@@ -121,7 +121,7 @@ Walther Saavedra ☄️
   <a href="https://github.com/cronoxxxx">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cronoxxxx&theme=transparent" alt="Streak Stats"/>
   </a>
-  <br><br>
+  <br>
 
   <!-- Total Stats -->
   <a href="https://github.com/cronoxxxx">
