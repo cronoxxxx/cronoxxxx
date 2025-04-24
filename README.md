@@ -119,19 +119,19 @@ Walther Saavedra ☄️
 <div align="center">
   <!-- Streak Stats -->
   <a href="https://github.com/cronoxxxx">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cronoxxxx&theme=transparent" alt="Streak Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cronoxxxx&theme=graywhite" alt="Streak Stats"/>
   </a>
-  <br>
+  <br><br>
 
   <!-- Total Stats -->
   <a href="https://github.com/cronoxxxx">
-    <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=transparent&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=graywhite&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   </a>
   <br><br>
 
   <!-- Languages -->
   <a href="https://github.com/cronoxxxx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=transparent&layout=compact&langs_count=10&hide_border=false" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=graywhite&layout=compact&langs_count=10&hide_border=false" alt="Top Languages">
   </a>
 </div>
 
