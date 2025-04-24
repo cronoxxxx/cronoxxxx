@@ -5,22 +5,29 @@
   </a>
 </div>
 
+
+
 <div align="center">
-  <h1 style="font-size: 2.8em; font-weight: 700; text-align: center; letter-spacing: 1px; padding: 0.3em 0; width: fit-content; margin: 0 auto 1em auto;">
-    ⫷ Walther Saavedra ⫸
-  </h1>
-  <h2 style="font-size: 1.5em;">
-    <strong><span style="color:#00ADB5;">🚀 Full-Stack Developer 🚀</span></strong>
-  </h2>
-  <p style="font-size: 1.1em;">Tech enthusiast | Creative mind | Multilingual communicator</p>
+  <h1 style="
+  font-size: 2.8em;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 1px;
+  padding: 0.3em 0;
+  width: fit-content;
+  margin: 0 auto 1em auto;
+">
+  ⫷ Walther Saavedra ⫸
+</h1>
+
+
+  <h2><strong><span style="color:#00ADB5;">🚀 Full-Stack Developer 🚀</span></strong></h2>
+  <p>Tech enthusiast | Creative mind | Multilingual communicator (🇪🇸 🇺🇸 🇵🇹)</p> 
 
   <!-- Botón para descargar CV -->
-  <a href="curriculum.pdf" download>
-    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-  </a>
-</div>
-
-
+ <a href="curriculum.pdf" download>
+  <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+</a>
 
 
 ---
@@ -35,7 +42,7 @@
 </div>
 
 <div style="max-width: 700px; margin: 0 auto 20px auto; text-align: center; font-family: 'Segoe UI', 'Arial', sans-serif;">
-  <div style="font-size: 0.85rem; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 1.1rem;">
+  <div style="font-size: 0.75rem; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 1.1rem;">
     <h1>Languages I Speak</h1>
   </div>
   <div style="border-top: 2px; display: flex; justify-content: center; align-items: flex-start; gap: 2.5rem;">
@@ -64,9 +71,6 @@
 
 
 # 🛠️ Tech Stack
-
-
-
 ## 🔹Frontend & UI
   
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
