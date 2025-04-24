@@ -1,37 +1,148 @@
+<!-- Encabezado animado y mejorado -->
 <div align="center">
   <a href="https://pimp-my-readme-next.vercel.app">
     <img src="https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f680&text=🌟%20Welcome%20to%20Walther%20Saavedra%27s%20World!%20🌍" alt="Welcome Banner" style="width: 100%; max-width: 1000px;" />
   </a>
 </div>
 
-<div align="center">
-  <h1 style="font-size: 3em;">✨ Walther Saavedra ✨</h1>
-  <h2><strong><span style="color:#00ADB5;">🚀 Full-Stack Developer 🚀</span></strong></h2>
-  <p>Tech enthusiast | Creative mind | Multilingual communicator (🇪🇸 🇺🇸 🇵🇹)</p>
 
-  <a href="curriculum.pdf" download>
-    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-  </a>
+
+<div align="center">
+  <h1 style="
+  font-size: 2.8em;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 1px;
+  padding: 0.3em 0;
+  width: fit-content;
+  margin: 0 auto 1em auto;
+">
+  ⫷ Walther Saavedra ⫸
+</h1>
+
+
+  <h2><strong><span style="color:#00ADB5;">🚀 Full-Stack Developer 🚀</span></strong></h2>
+  <p>Tech enthusiast | Creative mind | Multilingual communicator (🇪🇸 🇺🇸 🇵🇹)</p> 
+
+  <!-- Botón para descargar CV -->
+ <a href="curriculum.pdf" download>
+  <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+</a>
+
+
+---
+
+# 🌐 About Me
+
+<style>
+  .about-container {
+    max-width: 700px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+    border-radius: 18px;
+    padding: 2.5rem 2rem 2rem 2rem;
+  }
+  .about-desc {
+    font-size: 1.18rem;
+    text-align: center;
+    line-height: 1.6;
+  }
+  .languages-section {
+    
+    max-width: 700px;
+    margin: 0 auto 20px auto;
+    text-align: center;
+    
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+  }
+  .languages-title {
+    font-size: 0.75rem;
+    font-weight: 600;
+    
+    letter-spacing: 0.5px;
+    margin-bottom: 1.1rem;
+    
+  }
+  .flags-row {
+    border-top: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2.5rem;
+  
+  }
+  .flag-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    padding: 0.5rem 1rem 0.7rem 1rem;
+    background: none;
+    margin: 0;
+  }
+  .flag-img {
+    width: 52px;
+    height: 36px;
+    border-radius: 7px;
+    margin-bottom: 0.7rem;
+    display: block;
+  }
+  .lang-label {
+    font-size: 1.08rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    
+
+  }
+  .lang-desc {
+    font-size: 0.96rem;
+
+    max-width: 120px;
+    opacity: 0.92;
+  }
+</style>
+
+<div class="about-container">
+  <div class="about-desc">
+    Hi, I'm <b>Walther</b> — a passionate full-stack developer dedicated to crafting efficient, creative, and impactful web experiences.<br>
+    I thrive at the intersection of logic and emotion, building applications that not only <em>work</em> but <em>feel right</em>.
+  </div>
 </div>
 
+<div class="languages-section">
+  <div class="languages-title"><h1>Languages I Speak</h1></div>
+  <div class="flags-row">
+    <div class="flag-col">
+      <img class="flag-img" src="https://flagcdn.com/w160/es.png" alt="Spanish Flag" />
+      <div class="lang-label">Spanish</div>
+      <div class="lang-desc">Native fluency</div>
+    </div>
+    <div class="flag-col">
+      <img class="flag-img" src="https://flagcdn.com/w160/gb.png" alt="English Flag" />
+      <div class="lang-label">English</div>
+      <div class="lang-desc">Professional proficiency</div>
+    </div>
+    <div class="flag-col">
+      <img class="flag-img" src="https://flagcdn.com/w160/pt.png" alt="Portuguese Flag" />
+      <div class="lang-label">Portuguese</div>
+      <div class="lang-desc">Conversational</div>
+    </div>
+  </div>
+</div>
+
+
+
+
 ---
 
-## 🌐 About Me
 
-Hi! I'm Walther—a passionate full-stack developer who thrives on building efficient, creative, and impactful web experiences. Fluent in Spanish, English, and Portuguese, I bring cultural sensitivity and diversity to every project I touch.
+# 🛠️ Tech Stack
 
-🖌️ I love blending code with design.  
-🛼 I glide on inline skates to clear my mind.  
-👨‍🍳 I experiment in the kitchen like it’s a lab.
 
-I aim to connect logic with emotion—building apps that don’t just *work*, but that *feel right*.
 
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Frontend & UI
-
+## 🔹Frontend & UI
+  
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,8 +151,10 @@ I aim to connect logic with emotion—building apps that don’t just *work*, bu
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔹 Backend & Databases
 
+
+## 🔹Backend & Databases
+  
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -52,8 +165,9 @@ I aim to connect logic with emotion—building apps that don’t just *work*, bu
 ![Thymeleaf Badge](https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Jakarta EE Badge](https://img.shields.io/badge/Jakarta%20EE-000000?style=for-the-badge&logo=jakartaee&logoColor=white)
 
-### 🔹 Tools & Platforms
 
+## 🔹Tools & Platforms
+  
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unity Badge](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white)
@@ -61,21 +175,42 @@ I aim to connect logic with emotion—building apps that don’t just *work*, bu
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages">
-  <img src="https://github-profile-trophy.vercel.app/?username=cronoxxxx&theme=darkhub&margin-w=10&margin-h=15" alt="Trophies">
+
+  <!-- Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cronoxxxx&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; max-width: 400px;" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=cronoxxxx&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" style="width: 100%; max-width: 400px;" />
+
+  <!-- Lenguajes Más Usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronoxxxx&theme=dark&layout=compact&langs_count=10&hide_border=false" alt="Top Languages" style="width: 100%; max-width: 400px;" />
+
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=cronoxxxx&theme=darkhub&margin-w=10&margin-h=15" alt="Trophies" style="width: 100%; max-width: 1400px;" />
+
+</div>
+
+---
+
+# 📅 GitHub Activity
+
+<div align="center">
+
+  <!-- GitHub Profile Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cronoxxxx&theme=react-dark&hide_border=true" alt="Activity Graph" style="width: 100%; max-width: 1800px;" />
+
 </div>
 
 
 ---
 
-## 🤝 Let's Connect!
+# 🤝 Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/walther-saavedra/" target="_blank">
