@@ -45,23 +45,31 @@
   <div>
     <h2>Languages I Speak</h2>
   </div>
-  <table cellspacing="10" cellpadding="10">
+  <table border=1 cellspacing="10" cellpadding="10">
     <tr>
       <td align="center">
         <img src="https://flagcdn.com/w160/es.png" width="80" alt="Spanish"  ><br>
         <b>Spanish</b><br>
-        <small>Native fluency</small>
       </td>
       <td align="center">
         <img src="https://flagcdn.com/w160/us.png" width="90" height="55" alt="English" ><br>
         <b>English</b><br>
-        <small>Professional proficiency</small>
       </td>
       <td align="center">
         <img src="https://flagcdn.com/w160/br.png" width="80" alt="Portuguese"><br>
         <b>Portuguese</b><br>
-        <small>Conversational</small>
       </td>
+    </tr>
+    <tr>
+    <td align="center">
+    <small>Native fluency	</small>
+    </td>
+    <td align="center">
+        <small>Professional proficiency</small>
+    </td>
+    <td align="center">
+     <small>Conversational</small>
+    </td>
     </tr>
   </table>
 </div>
