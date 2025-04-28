@@ -142,4 +142,14 @@ Walther Saavedra ☄️
   <a href="https://t.me/cr0noxx" target="_blank">
     <img src="https://imgs.search.brave.com/X9YQ3yByGGASxHG7OYRfQjTKow1SfknPUDuXIg21nSw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90ZWxlZ3Jh/bS1pY29uLTIwNDh4/MjA0OC1uczNtYmdo/NC5wbmc" alt="Telegram" width="95">
   </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/cr0noxx" target="_blank">
+    <img src="logo.png" alt="Telegram" width="96">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:saavedra.mateo.walter@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/900px-Mail_%28iOS%29.svg.png" alt="Telegram" width="96">
+  </a>
+  
+
+
 </div>
