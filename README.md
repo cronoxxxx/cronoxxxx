@@ -20,7 +20,7 @@ Walther Saavedra ☄️
 </a>
 
 <a href="Walther Saavedra - EN.docx.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20CV%20English%20(Soon)-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English">
+  <img src="https://img.shields.io/badge/📄%20CV%20English%20-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English">
 </a>
 
 <h3>🔗 Explore more</h3>
