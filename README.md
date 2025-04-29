@@ -15,11 +15,11 @@ Walther Saavedra ☄️
 
 
 <!-- Botones para descargar CV en dos idiomas -->
-<a href="Walther Saavedra - ES.docx.pdf" target="_blank">
+<a href="Walther Saavedra - ES.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20CV%20Español-E60026?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Español">
 </a>
 
-<a href="Walther Saavedra - EN.docx.pdf" target="_blank">
+<a href="Walther Saavedra - EN.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20CV%20English%20-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English">
 </a>
 
