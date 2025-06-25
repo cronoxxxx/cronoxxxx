@@ -139,7 +139,7 @@ Walther Saavedra ☄️
     <img src="https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn" alt="LinkedIn" height="90">
   </a>&nbsp;&nbsp;
   <a href="https://t.me/cr0noxx" target="_blank">
-    <img src="https://imgs.search.brave.com/X9YQ3yByGGASxHG7OYRfQjTKow1SfknPUDuXIg21nSw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90ZWxlZ3Jh/bS1pY29uLTIwNDh4/MjA0OC1uczNtYmdo/NC5wbmc" alt="Telegram" width="95">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" alt="Telegram" width="95">
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/34673514235" target="_blank">
