@@ -25,7 +25,7 @@ Walther Saavedra ☄️
 
 <h3>🔗 Explore more</h3>
 <a href="https://www.walthersaavedra.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20My%20Portfolio%20🌐-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Portfolio">
+  <img src="https://img.shields.io/badge/🌐%20My%20Portfolio%20🌐-0A66C2?style=for-the-badge&logo=devdotto&logoColor=white" alt="My Portfolio">
 </a>
 
 
